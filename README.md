@@ -7,3 +7,5 @@ Edit for the example new branch
 Now editing on update-readme branch
 
 More edits to readme file
+
+Update made on master on git hub  before  rebase
