@@ -9,3 +9,6 @@ Now editing on update-readme branch
 More edits to readme file
 
 Update made on master on git hub  before  rebase
+
+## Getting started
+To get started with the project,just `clone` this repository
